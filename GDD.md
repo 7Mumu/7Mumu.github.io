@@ -1,6 +1,12 @@
 # Kill Virus
 ```
-La inspiración del juego es que habrá una crisis mundial de virus en 2020. Todo el mundo debería quedarse en casa el mayor tiempo posible, es obligatorio el uso de máscara para salir. Descubrimos que matar estos virus es casi imposible, por lo que solo podemos evitar tocarlos tanto como sea posible. El nombre del juego es "Kill Virus", que es uno de nuestros deseos.
+La inspiración del juego es que habrá una crisis mundial de virus en 2020. 
+Todo el mundo debería quedarse en casa el mayor tiempo posible, 
+es obligatorio el uso de máscara para salir. 
+Descubrimos que matar estos virus es casi imposible, 
+por lo que solo podemos evitar tocarlos tanto como sea posible. 
+El nombre del juego es "Kill Virus", que es uno de nuestros deseos.
+
 ```
 ## Ficha del juego
   Nombre del juego: `Kill Virus`  
