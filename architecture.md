@@ -1,6 +1,6 @@
 # Architecture
 
-  Para que el juego se ejecute normalmente, necesitamos la carpeta js, la carpeta de activos y el archivo "index.html".
+  Para que el juego se ejecute normalmente, necesitamos la carpeta js, la carpeta de assets y el archivo "index.html".
   ![architect1](https://github.com/7Mumu/7Mumu.github.io/blob/master/slides/architecture1.png)  
   En la carpeta js, están todos los archivos de javascript que necesitamos para que el juego funcione.
   En la carpeta assets, están las imagenes y las músicas que usamos.  
