@@ -11,4 +11,8 @@
 |8|![Restart](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/restart.png)|Restart|
 |9|![Title](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/title2.png)|Title|
 
+## Medias
+![Medias](https://github.com/7Mumu/7Mumu.github.io/blob/master/slides/music.png)
 
+## Fuente
+![Funte](https://github.com/7Mumu/7Mumu.github.io/blob/master/slides/fuente-Tribal-Threat.png)
