@@ -9,9 +9,9 @@ Hay muchos virus en el mundo. Debes evitar todos los virus. Por supuesto, inevit
 
 ### Proyect management in: 
 
-[Github]: https://github.com/7Mumu/7Mumu.github.io
+https://github.com/7Mumu/7Mumu.github.io
 
 ### Play the game in:
 
-[Virus Killer]: https://7mumu.github.io/
+https://7mumu.github.io/
 
