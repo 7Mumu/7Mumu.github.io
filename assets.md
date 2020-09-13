@@ -8,7 +8,7 @@
 |5|![Platform](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/line.png)|Platform|
 |6|![Background](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/background.png)|Background|
 |7|![Gameover](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/gameover.png)|Gameover|
-|8|![Restart](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/restart.png)|Balas|
+|8|![Restart](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/restart.png)|Restart|
 |9|![Title](https://github.com/7Mumu/7Mumu.github.io/blob/master/assets/image/title2.png)|Title|
 
 
