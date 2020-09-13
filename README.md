@@ -1,8 +1,11 @@
 # Virus Killer
 
+###Autores
+*Wenbo Sun
+*Wenhui Lin
+
 ### Game Descriptcion:
-Eliminar un virus puede llevar años, puede costar mucho económicamente y esfuerzos humanos. 
-En este juego podrás destruir todos los virus más virulentos que han existido.
+Hay muchos virus en el mundo. Debes evitar todos los virus. Por supuesto, inevitablemente encontrará un virus accidentalmente. ¡Que no cunda el pánico, ponte una máscara y vive!
 
 ### Proyect management in: 
 
