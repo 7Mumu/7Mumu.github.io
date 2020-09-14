@@ -1,0 +1,24 @@
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.play-rules {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+
+.play-rules>img {
+    width: auto;
+    height: 100%;
+}
+
+#kill-virus {
+}
